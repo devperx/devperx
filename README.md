@@ -6,7 +6,7 @@
 </div>
 
 # ***Full-Stack Developer*** 👋
-- Visit my portfolio [DevperX](https://devperx.netlify.app/)
+- Visit my portfolio [Bailador Project](https://bailador-project.com/)
 
 ## :yum: About me
 Born in Argentina, La Plata - Bs.As. I studied computer science at UNLP, but now I am the owner of studying without limitations. Lover of knowledge and learning. I am a family man.
